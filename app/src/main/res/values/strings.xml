@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GandhinagarTour</string>
+
+    <string name="akshardham">Akshardham</string>
+    <string name="dandikutir">Dandi Kutir</string>
+    <string name="indroda">Indroda Park</string>
+    <string name="saritaudhyan">Sarita Udhyan</string>
+    <string name="ak_d_1">The focal point of the complex is the Akshardham Mandir,
+        which measures 108 feet high, 131 feet wide and 240 feet long and features 97 carved pillars,
+        17 domes, 8 balconies, 220 stone beams and 264 sculpted figures.</string>
+    <string name="ak_d_2">The complex’s five exhibition halls use audio-visual presentations and life-sized dioramas to explore various themes in Hinduism.</string>
+    <string name="ak_d_3">The Sat-Chit-Anand Water Show is an interpretative performance of the parable of Nachiketa, as told in the Kathopanishad. </string>
+    <string name="ak_d_4">AARSH is a research institute focused on the Swaminarayan tradition as well as the role of Hindu principles in solving social problems. It serves as a forum for scholars to discuss pragmatic application of religion and philosophy to raise social harmony in society The research facility includes a library of more than 7,000 works in Sanskrit, Hindi, Gujarati and Tamil as well as a large collection of rare manuscripts that cover the various denominations and schools of philosophy in Hinduism.</string>
+    <string name="ak_d_5">Sahajanand Van is a 15-acre garden[6] with various attractions, including rock arrangements, fountains, a waterfall, and a 18,000 sq. ft. plant nursery.[1] In addition, throughout the garden are six cultural wisdom spots which depict specific incidents and teachings of Hinduism. </string>
+    <string name="ak_d_6">On September 24, 2002, two armed terrorists attacked Akshardham, killing 33 people and wounding 70.[7] The Indian National Security Guard intervened and ended the siege by killing both terrorists. A prayer assembly led by Pramukh Swami was organized for September 29, 2002,[8] with attendees praying for the departed souls and their families and also for communal and sectarian peace. More than 30,000 people attended assembly.</string>
+
+
+    <string name="kut_1">consisting of 8 life-size paintings and more than 250 photo-enlargements of some of the most vivid and historic events in life of gandhiji</string>
+    <string name="kut_2">Tracks life of Gandhiji in Ahmedabad from 1915–1930</string>
+    <string name="kut_4">Consists of nearly 35,000 books dealing with Gandhis life, work, teachings, Indian freedom movement and allied subjects, and a Reading Room with more than 80 periodicals in English, Gujarati and Hindi</string>
+    <string name="kut_5">It consists of nearly 34,117 letters to and from Gandhi both in original and in photocopies, about 8,781 pages of manuscripts of Gandhis articles appearing in Harijan, Harijansevak, and Harijanbandhu and about 6,000 photographs of Gandhi and his associates</string>
+    <string name="kut_6">Non-Profit making, which sells literature and memorabilia related to Gandhi and his lifes work, which in turn supports local artisans.</string>
+    <string name="kut_3">Prayer Ground where the ashramite listened to bhajans (devotional songs) and readings from the Holy Gita, Quran and Bible</string>
+
+    <string name="in_1">The Indroda Dinosaur and Fossil Park in Ahmedabad in the state of Gujarat, India, has been described as the second largest hatchery of dinosaur eggs in the world</string>
+    <string name="in_2">The Park was set up by the Geological Survey of India[1][2] and is the only dinosaur museum in the country.</string>
+    <string name="in_3">The Park is run by the Gujarat Ecological and Research Foundation (GEER) and has been called Indias Jurassic Park, though in fact, the fossils are from the later Cretaceous period, not the Jurassic.</string>
+
+
+    <string name="s_1"></string>
+    <string name="s_2"></string>
+    <string name="s_3"></string>
+    <string name="s_4"></string>
+    <string name="s_5"></string>
+    <string name="s_6"></string>
+
+
+
+</resources>
